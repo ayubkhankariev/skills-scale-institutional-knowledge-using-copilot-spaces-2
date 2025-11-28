@@ -1,5 +1,0 @@
-# OctoAcme Project Management Overview
-
-OctoAcme runs projects through a lightweight, iterative lifecycle: Initiation, Planning, Execution, Release, and Retrospective. Initiation captures the problem, stakeholders, and success metrics using a Project One-pager and an initiation checklist. Planning turns approved initiatives into a prioritized, estimated backlog with a Definition of Done, a release plan, and a milestone map. Execution uses a project board to move work across Backlog → Ready → In Progress → In Review → QA → Done, with a pull request process that favors small, well-documented PRs linked to issues and acceptance criteria.
-
-Day-to-day coordination relies on a regular communication cadence: daily standups for blockers and progress, weekly delivery syncs and PM–PdM check-ins, and monthly stakeholder updates. Teams use templates for weekly status and incident notices to keep messaging consistent. A simple Risk Register and clear escalation paths (team → PM → Product Lead → Sponsor) ensure risks and dependencies are surfaced and managed promptly.
